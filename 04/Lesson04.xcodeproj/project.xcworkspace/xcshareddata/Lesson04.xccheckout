@@ -5,24 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>B5564318-EC8C-47CD-B2C6-D1F0AAB40A7B</string>
+	<string>971C8DFB-EAF4-4300-8663-742E74F3C861</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Lesson03</string>
+	<string>Lesson04</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>D4A3F4BDA6B5528EE23F626DAF6E3696E7E78DE8</key>
 		<string>https://github.com/tonicruthirds/Git-Assignments.git</string>
-		<key>F202B3D8D01EC779B0156A09D0775E6528741ACA</key>
-		<string>https://github.com/tonicruthirds/myassignments.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>03/Lesson03.xcodeproj</string>
+	<string>04/Lesson04.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>D4A3F4BDA6B5528EE23F626DAF6E3696E7E78DE8</key>
 		<string>../../..</string>
-		<key>F202B3D8D01EC779B0156A09D0775E6528741ACA</key>
-		<string>../../../../assignments</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/tonicruthirds/Git-Assignments.git</string>
@@ -32,14 +28,6 @@
 	<string>D4A3F4BDA6B5528EE23F626DAF6E3696E7E78DE8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F202B3D8D01EC779B0156A09D0775E6528741ACA</string>
-			<key>IDESourceControlWCCName</key>
-			<string>assignments</string>
-		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

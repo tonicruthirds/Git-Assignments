@@ -19,15 +19,19 @@ class Main: UIViewController {
     
     
     @IBAction func swipeRight(sender: AnyObject) {
-        let storyboard = UIStoryboard(name: "Main", bundle: NSBundle.mainBundle())
-        let destination = storyboard.instantiateViewControllerWithIdentifier("ModalWindow") as UIViewController
-        presentViewController(destination, animated: true, completion: nil)
+     
+        presentViewControllerModally()
     }
     
     @IBAction func swipeLeft(sender: AnyObject) {
-        let storyboard = UIStoryboard(name: "Main", bundle: NSBundle.mainBundle())
-        let destination = storyboard.instantiateViewControllerWithIdentifier("ModalWindow") as UIViewController
-        presentViewController(destination, animated: true, completion: nil)
+        
+        presentViewControllerModally()  
+    }
+    
+    func presentViewControllerModally() {
+    let storyboard = UIStoryboard(name: "Main", bundle: NSBundle.mainBundle())
+    let destination = storyboard.instantiateViewControllerWithIdentifier("ModalWindow") as UIViewController
+    presentViewController(destination, animated: true, completion: nil)
     }
 }
 
