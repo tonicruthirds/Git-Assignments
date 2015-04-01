@@ -37,6 +37,7 @@ class SixthViewController: ExerciseViewController, UITableViewDelegate, UITableV
             cell = UITableViewCell(style: .Default, reuseIdentifier: "Cell")
         }
         
+        
         /* TODO:
         The table view cells on this screen are blank.
         
