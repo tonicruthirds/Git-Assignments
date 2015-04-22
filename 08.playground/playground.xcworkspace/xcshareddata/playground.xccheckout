@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>154387A9-BC1D-44BE-9A61-768001C045C0</string>
+	<string>A9A0EEBF-6517-4FF6-8A6D-8B73E38C41A0</string>
 	<key>IDESourceControlProjectName</key>
-	<string>assignment5</string>
+	<string>playground</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>D4A3F4BDA6B5528EE23F626DAF6E3696E7E78DE8</key>
 		<string>https://github.com/tonicruthirds/Git-Assignments.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>assignment5/assignment5.xcodeproj</string>
+	<string>08.playground/playground.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>D4A3F4BDA6B5528EE23F626DAF6E3696E7E78DE8</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/tonicruthirds/Git-Assignments.git</string>
